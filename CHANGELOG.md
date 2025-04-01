@@ -3,6 +3,9 @@
 All notable changes to this project will be documented in this file.
 
 
+## 0.0.4+1
+- updated example.
+
 ## 0.0.4
 - implemented example.
 
