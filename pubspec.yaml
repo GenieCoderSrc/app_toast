@@ -25,14 +25,7 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-  plugin:
-    platforms:
-      android:
-      ios:
-      web:
-      linux:
-      macos:
-      windows:
+
 example:
   path: example
 
