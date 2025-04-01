@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.0.0] - Initial Release
+## [0.0.1] - Initial Release
 ### Added
 - Implemented `showToast` method to display toast messages.
 - Implemented `showSnackBar` method to display snackbars.
