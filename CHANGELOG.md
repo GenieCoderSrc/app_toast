@@ -10,3 +10,7 @@ All notable changes to this project will be documented in this file.
 - Built-in error message styling.
 - Added support for different toast durations.
 
+## [0.0.3] - 
+### Added example 
+
+

@@ -1,6 +1,6 @@
 name: app_toast
 description: "A simple Flutter package for displaying toast messages and snackbars with customizable options."
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/GenieCoderSrc/app_toast
 repository: https://github.com/GenieCoderSrc/app_toast
 issue_tracker: https://github.com/GenieCoderSrc/app_toast/issues
@@ -25,6 +25,16 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+  plugin:
+    platforms:
+      android:
+      ios:
+      web:
+      linux:
+      macos:
+      windows:
+example:
+  path: example
 
   # To add assets to your package, add an assets section, like this:
   # assets:
