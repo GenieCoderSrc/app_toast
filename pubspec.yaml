@@ -1,5 +1,5 @@
 name: app_toast
-description: "A new Flutter package project."
+description: "A simple Flutter package for displaying toast messages and snackbars with customizable options."
 version: 0.0.1
 homepage: https://github.com/GenieCoderSrc/app_toast
 repository: https://github.com/GenieCoderSrc/app_toast
