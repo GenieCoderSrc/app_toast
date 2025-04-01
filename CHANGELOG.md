@@ -2,7 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
-## [0.0.2] - Initial Release
+
+## 0.0.3
+- implemented example.
+
+## 0.0.2
 ### Added
 - Implemented `showToast` method to display toast messages.
 - Implemented `showSnackBar` method to display snackbars.
@@ -10,7 +14,8 @@ All notable changes to this project will be documented in this file.
 - Built-in error message styling.
 - Added support for different toast durations.
 
-## [0.0.3] - 
-### Added example 
+## 0.0.1 - Initial Release
+
+
 
 
