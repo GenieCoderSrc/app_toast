@@ -1,6 +1,6 @@
 name: app_toast
 description: "A simple Flutter package for displaying toast messages and snackbars with customizable options."
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/GenieCoderSrc/app_toast
 repository: https://github.com/GenieCoderSrc/app_toast
 issue_tracker: https://github.com/GenieCoderSrc/app_toast/issues
