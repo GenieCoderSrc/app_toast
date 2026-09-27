@@ -1,6 +1,6 @@
 name: app_toast
 description: "A simple Flutter package for displaying toast messages and snackbars with customizable options."
-version: 0.0.6
+version: 0.0.7
 homepage: https://github.com/GenieCoderSrc/app_toast
 repository: https://github.com/GenieCoderSrc/app_toast
 issue_tracker: https://github.com/GenieCoderSrc/app_toast/issues
@@ -13,13 +13,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-    
-  fluttertoast: ^9.1.0
+
+  fluttertoast: ^10.0.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
