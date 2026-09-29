@@ -12,6 +12,8 @@ A simple Flutter package for displaying toast messages and snackbars with custom
 Add the following dependency to your `pubspec.yaml` file:
 
 ```yaml
+resolution: workspace
+
 dependencies:
   app_toast: latest_version
 ```
@@ -77,6 +79,8 @@ This package depends on:
 
 Make sure to include `fluttertoast` in your project:
 ```yaml
+resolution: workspace
+
 dependencies:
   fluttertoast: latest_version
 ```
