@@ -18,9 +18,8 @@ class AppToast {
       gravity: gravity,
       timeInSecForIosWeb: time,
       textColor: txtColor ?? Colors.white,
-      backgroundColor: isErrorMsg
-          ? Colors.redAccent
-          : bgColor ?? Colors.blueGrey.shade800,
+      backgroundColor:
+          isErrorMsg ? Colors.redAccent : bgColor ?? Colors.blueGrey.shade800,
       fontSize: fontSize,
     );
   }
